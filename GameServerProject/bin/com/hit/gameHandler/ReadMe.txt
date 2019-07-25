@@ -1,0 +1,1 @@
+BoardGameHandler gets data for the game from GamesSevice and and apply it on the game
